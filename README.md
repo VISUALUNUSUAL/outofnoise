@@ -1,2 +1,2 @@
-# outofnoise
+# OUTOFNOISE
 visual illusion 
